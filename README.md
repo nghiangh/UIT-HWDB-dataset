@@ -1,5 +1,10 @@
 # UIT-HWDB dataset
 
+UIT-HWDB is derived from TUAT Nakagawa Lab. HANDS-VNOnDB. It may be used for non-commercial research only, under the HANDS-VNOnDB Conditions of Use (Version 2.0): https://zenodo.org/records/23864366. For commercial use, please contact Hung Tuan Nguyen (fx7297@go.tuat.ac.jp). Please also cite: 
+```
+H. T. Nguyen, C. T. Nguyen, P. T. Bao, M. Nakagawa, "A database of unconstrained Vietnamese online handwriting and recognition experiments by recurrent neural networks," Pattern Recognition, vol. 78, pp. 291–306, 2018.
+```
+
 ## Statistic of the dataset
 
 | Dataset | Total |
@@ -9,48 +14,6 @@
 | UIT-HWDB-paragraph | 1,144 |
 <!-- | UIT-HWDB-word-syn | 307,734 |
 | UIT-HWDB-line-syn | 36,320 | -->
-
-
-* Our dataset has 3 parts in total:
-
-    * UIT-HWDB-word: ([https://drive.google.com/file/d/1frQAnh_AViNrNkyRXbbt2DhyGQT-k2dK/view?usp=share_link](https://drive.google.com/file/d/1frQAnh_AViNrNkyRXbbt2DhyGQT-k2dK/view?usp=share_link)).
-
-    * UIT-HWDB-line: ([https://drive.google.com/file/d/1Ul6r2lSP24PlZ6Biabhzg5Q2Wg8Qw6E-/view?usp=share_link](https://drive.google.com/file/d/1Ul6r2lSP24PlZ6Biabhzg5Q2Wg8Qw6E-/view?usp=share_link)).
-
-    * UIT-HWDB-paragraph: ([https://drive.google.com/file/d/1aMi0RjLcvvxqogKXE_phyFvWT7xXzdRV/view?usp=share_link](https://drive.google.com/file/d/1aMi0RjLcvvxqogKXE_phyFvWT7xXzdRV/view?usp=share_link)).
-
-
-## Sample images
-
-* Some examples from the training set of the UIT-HWDB dataset:
-
-    * UIT-HWDB-word:
-
-        ![UIT-HWDB-word-1](images/words/1.jpg) ![UIT-HWDB-word-1](images/words/2.jpg)
-
-        ![UIT-HWDB-word-1](images/words/3.jpg) ![UIT-HWDB-word-1](images/words/4.jpg)
-
-    * UIT-HWDB-line:
-
-        ![UIT-HWDB-line-1](images/lines/1.png) ![UIT-HWDB-line-1](images/lines/2.png)
-
-        ![UIT-HWDB-line-1](images/lines/3.png) ![UIT-HWDB-line-1](images/lines/4.png)
-
-    * UIT-HWDB-paragraph:
-
-        ![UIT-HWDB-paragraph-1](images/paragraphs/2.jpg)
-
-<!--     * UIT-HWDB-word-syn: 
-
-        ![UIT-HWDB-word-1](images/words_syn/word_1.png) ![UIT-HWDB-word-1](images/words_syn/word_2.png)
-
-        ![UIT-HWDB-word-1](images/words_syn/word_3.png) ![UIT-HWDB-word-1](images/words_syn/word_4.png)
-    
-    * UIT-HWDB-line-syn 
-
-        ![UIT-HWDB-line-1](images/lines_syn/line_1.png) ![UIT-HWDB-line-1](images/lines_syn/line_2.png)
-
-        ![UIT-HWDB-line-1](images/lines_syn/line_3.png) ![UIT-HWDB-line-1](images/lines_syn/line_4.png) -->
 
 Please cite our study if your work has any information relevant to our dataset:
 ```
